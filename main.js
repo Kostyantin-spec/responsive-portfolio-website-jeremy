@@ -24,7 +24,7 @@ const sr = ScrollReveal({
 sr.reveal(".home-text", { delay: 200, origin: "top" });
 sr.reveal(".home-img", { delay: 400, origin: "top" });
 sr.reveal(
-  ".about-title, .about-text, .heading , .box, input, textarea, social",
+  ".about-title, .about-text, .heading , .box, input, textarea, .social",
   {
     delay: 200,
     origin: "top",
